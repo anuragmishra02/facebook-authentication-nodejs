@@ -1,0 +1,158 @@
+STAC-68: Cancellation flow
+STAC-68: Cancellation flow
+STAC-69: Cancel Finish Reg_Prepaid
+STAC-69: Cancel Finish Reg_Prepaid
+STAC-69: Cancel Finish Reg_Prepaid
+STAC-69: Cancel Finish Reg_Prepaid
+STAC-69: Cancel Finish Reg_Prepaid
+STAC-91: New user registration
+STAC-91: New user registration
+STAC-91: New user registration
+STAC-91: New user registration
+STAC-91: New user registration
+STAC-91: New user registration
+STAC-91: New user registration
+STAC-91: New user registration
+STAC-91: New user registration
+STAC-91: New user registration
+STAC-91: New user registration
+STAC-5: Cancellation flow
+STAC-5: Cancellation flow
+STAC-5: Cancellation flow
+STAC-5: Cancellation flow
+STAC-91: New user registration
+STAC-91: New user registration
+STAC-91: New user registration
+STAC-91: New user registration
+STAC-91: New user registration
+STAC-91: New user registration
+STAC-91: New user registration
+STAC-5: Cancellation flow
+STAC-5: Cancellation flow
+STAC-43: New user registration
+STAC-43: New user registration
+STAC-43: New user registration
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-7: Dashboard_NewlyRegisteredUser_BoughtArticles
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-70: Verify login via dashboard
+STAC-70: Verify login via dashboard
+STAC-70: Verify login via dashboard
+STAC-70: Verify login via dashboard
+STAC-70: Verify login via dashboard
+STAC-70: Verify login via dashboard
+STAC-70: Verify login via dashboard
+STAC-70: Verify login via dashboard
+STAC-70: Verify login via dashboard
+STAC-70: Verify login via dashboard
+STAC-70: Verify login via dashboard
+STAC-70: Verify login via dashboard
+STAC-70: Verify login via dashboard
+STAC-70: Verify login via dashboard
+STAC-3: Verify if clicking navigates to homepage
+STAC-3: Verify if clicking navigates to homepage
+STAC-70: Verify login via dashboard
+STAC-70: Verify login via dashboard
+STAC-3: Verify if clicking navigates to homepage
+STAC-3: Verify if clicking navigates to homepage
+STAC-3: Verify if clicking navigates to homepage
+STAC-3: Verify if clicking navigates to homepage
+STAC-11 Verify flow when user already logged in to FB
+STAC-11 Verify flow when user already logged in to FB
+STAC-11 Verify flow when user already logged in to FB
+STAC-11 Verify flow when user already logged in to FB
+STAC-11 Verify flow when user already logged in to FB
+STAC-11 Verify flow when user already logged in to FB
+STAC-11 Verify flow when user already logged in to FB
+STAC-11 Verify flow when user already logged in to FB
+STAC-11 Verify flow when user already logged in to FB
+STAC-11 Verify flow when user already logged in to FB
+STAC-11 Verify flow when user already logged in to FB
+STAC-11 Verify flow when user already logged in to FB
+STAC-11 Verify flow when user already logged in to FB
+STAC-1,67: New user registration
+STAC-1,67: New user registration
+STAC-1,67: New user registration
+STAC-1,67: New user registration
+STAC-1,67: New user registration
+STAC-1,67: New user registration
+STAC-1,67: New user registration
+STAC-1,67: New user registration
+STAC-1,67: New user registration
+STAC-1,67: New user registration
+STAC-1,67: New user registration
+STAC-1,67: New user registration
+STAC-1,67: New user registration
+STAC-1,67: New user registration
+STAC-1,67: New user registration
+STAC-1,67: New user registration
+STAC-164: Purchase with free tokens
+STAC-164: Purchase with free tokens
+STAC-164: Purchase with free tokens
+STAC-164: Purchase with free tokens
+STAC-164: Purchase with free tokens
+STAC-164: Purchase with free tokens
+STAC-164: Purchase with free tokens
+STAC-164: Purchase with free tokens
+STAC-164: Purchase with free tokens
+STAC-164: Purchase with free tokens
+STAC-164: Purchase with free tokens
+STAC-164: Purchase with free tokens
+STAC-164: Purchase with free tokens
+STAC-164: Purchase with free tokens
+STAC-164: Purchase with free tokens
+STAC-4: Verify if links are redirecting to stacker
+STAC-4: Verify if links are redirecting to stacker
+STAC-164: Purchase with free tokens
+STAC-164: Purchase with free tokens
+Validate Token
+Validate Token

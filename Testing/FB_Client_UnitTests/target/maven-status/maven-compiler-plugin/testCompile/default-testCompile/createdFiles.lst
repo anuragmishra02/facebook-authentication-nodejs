@@ -1,0 +1,4 @@
+MyRunner\TestRunner.class
+MyRunner\FileReaderManager.class
+stepDefinitions\APIStepDefns.class
+stepDefinitions\TokenTest.class

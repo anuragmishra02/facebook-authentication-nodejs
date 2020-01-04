@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.516265">
+<testcase classname="Test" name="Valid access Token &amp; Valid Signed Request" time="0.516265">
+<system-out><![CDATA[Given I send a Request With BothValid Input.................................passed
+Then I get Response For ValidInput..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>

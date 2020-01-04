@@ -1,0 +1,21 @@
+{
+  "name": "facebook-auth-services",
+  "version": "1.0.0",
+  "description": "Facebook graph validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "axios": "^0.18.0",
+    "base64url": "^3.0.1",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "express-winston": "^3.0.1",
+    "winston": "^3.1.0"
+  }
+}
